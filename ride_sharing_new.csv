@@ -1,0 +1,77 @@
+ride_id,duration,station_A_id,station_A_name,station_B_id,station_B_name,bike_id,user_type,user_birth_year,user_gender,tire_sizes,ride_date
+0,12 minutes,81,Berry St at 4th St,323,Broadway at Kearny,5480,2,1959,Male,27,19/01/2020
+1,24 minutes,3,Powell St BART Station (Market St at 4th St),118,Eureka Valley Recreation Center,5193,2,1965,Male,27,24/10/2018
+2,8 minutes,67,San Francisco Caltrain Station 2  (Townsend St at 4th St),23,The Embarcadero at Steuart St,3652,3,1993,Male,29,21/01/2020
+3,4 minutes,16,Steuart St at Market St,28,The Embarcadero at Bryant St,1883,1,1979,Male,26,22/01/2020
+4,11 minutes,22,Howard St at Beale St,350,8th St at Brannan St,4626,2,1994,Male,27,23/01/2020
+5,10 minutes,22,Howard St at Beale St,6,The Embarcadero at Sansome St,3279,2,1979,Male,29,1/05/2022
+8,16 minutes,67,San Francisco Caltrain Station 2  (Townsend St at 4th St),107,17th St at Dolores St,1035,2,1981,Male,29,2/05/2022
+9,9 minutes,30,San Francisco Caltrain (Townsend St at 4th St),97,14th St at Mission St,5286,2,1991,Male,29,3/05/2022
+10,21 minutes,81,Berry St at 4th St,16,Steuart St at Market St,2124,1,1982,Female,29,4/05/2022
+11,5 minutes,30,San Francisco Caltrain (Townsend St at 4th St),62,Victoria Manalo Draves Park,333,1,1994,Male,29,15/03/2019
+13,19 minutes,81,Berry St at 4th St,16,Steuart St at Market St,1883,2,1983,Male,29,16/03/2019
+15,6 minutes,3,Powell St BART Station (Market St at 4th St),26,1st St at Folsom St,5331,1,1990,Male,27,17/03/2019
+16,7 minutes,3,Powell St BART Station (Market St at 4th St),27,Beale St at Harrison St,1863,3,1998,Male,27,18/03/2019
+18,187 minutes,15,San Francisco Ferry Building (Harry Bridges Plaza),355,23rd St at Tennessee St,674,2,1987,Female,27,19/03/2019
+21,13 minutes,21,Montgomery St BART Station (Market St at 2nd St),74,Laguna St at Hayes St,5487,2,1997,Male,27,20/03/2019
+22,4 minutes,3,Powell St BART Station (Market St at 4th St),321,5th St at Folsom,1606,2,1995,Male,27,21/03/2019
+24,32 minutes,22,Howard St at Beale St,122,19th St at Mission St,3661,3,1990,Male,27,22/03/2019
+26,5 minutes,22,Howard St at Beale St,11,Davis St at Jackson St,4969,3,1964,Male,27,23/03/2019
+29,16 minutes,16,Steuart St at Market St,42,San Francisco City Hall (Polk St at Grove St),5000,2,2000,Female,27,24/03/2019
+31,17 minutes,16,Steuart St at Market St,42,San Francisco City Hall (Polk St at Grove St),5230,2,2000,Male,27,25/03/2019
+32,16 minutes,16,Steuart St at Market St,58,Market St at 10th St,2033,3,1998,Male,27,26/03/2019
+33,11 minutes,67,San Francisco Caltrain Station 2  (Townsend St at 4th St),364,China Basin St at 3rd St,5055,3,1986,Male,27,27/03/2019
+34,10 minutes,5,Powell St BART Station (Market St at 5th St),356,Valencia St at Clinton Park,2165,2,1982,Male,27,15/06/2018
+36,3 minutes,16,Steuart St at Market St,20,Mechanics Monument Plaza (Market St at Bush St),2403,2,1992,Male,27,16/06/2018
+37,11 minutes,3,Powell St BART Station (Market St at 4th St),109,17th St at Valencia St,4980,1,1980,Male,27,17/06/2018
+38,3 minutes,81,Berry St at 4th St,93,4th St at Mission Bay Blvd S,2409,3,1990,Female,27,18/06/2018
+39,12 minutes,15,San Francisco Ferry Building (Harry Bridges Plaza),370,Jones St at Post St,2852,3,1994,Male,27,19/06/2018
+40,7 minutes,3,Powell St BART Station (Market St at 4th St),61,Howard St at 8th St,2459,2,1977,Male,27,20/06/2018
+41,5 minutes,15,San Francisco Ferry Building (Harry Bridges Plaza),6,The Embarcadero at Sansome St,5193,3,1990,Male,27,21/06/2018
+42,6 minutes,81,Berry St at 4th St,116,Mississippi St at 17th St,903,1,1990,Male,27,22/06/2018
+43,6 minutes,21,Montgomery St BART Station (Market St at 2nd St),323,Broadway at Kearny,5218,1,1988,Female,27,23/06/2018
+45,9 minutes,5,Powell St BART Station (Market St at 5th St),15,San Francisco Ferry Building (Harry Bridges Plaza),2177,3,1990,Male,27,24/06/2018
+46,12 minutes,3,Powell St BART Station (Market St at 4th St),102,Irwin St at 8th St,5130,3,1980,Male,27,25/06/2018
+48,16 minutes,67,San Francisco Caltrain Station 2  (Townsend St at 4th St),76,McCoppin St at Valencia St,3397,3,1979,Male,27,26/06/2018
+49,11 minutes,81,Berry St at 4th St,356,Valencia St at Clinton Park,5504,2,1994,Male,27,27/06/2018
+50,11 minutes,3,Powell St BART Station (Market St at 4th St),74,Laguna St at Hayes St,531,2,1988,Male,27,28/06/2018
+52,4 minutes,3,Powell St BART Station (Market St at 4th St),321,5th St at Folsom,3385,2,1990,Female,27,29/06/2018
+54,5 minutes,67,San Francisco Caltrain Station 2  (Townsend St at 4th St),50,2nd St at Townsend St,2568,2,1989,Male,27,30/06/2018
+33,6 minutes,67,San Francisco Caltrain Station 2  (Townsend St at 4th St),343,Bryant St at 2nd St,2804,1,1966,Male,27,1/07/2018
+56,7 minutes,30,San Francisco Caltrain (Townsend St at 4th St),130,22nd St Caltrain Station,5213,1,1986,Male,27,2/07/2018
+58,4 minutes,67,San Francisco Caltrain Station 2  (Townsend St at 4th St),321,5th St at Folsom,1575,1,1988,Male,27,3/07/2018
+59,12 minutes,3,Powell St BART Station (Market St at 4th St),6,The Embarcadero at Sansome St,2899,1,1967,Female,27,4/07/2018
+60,3 minutes,67,San Francisco Caltrain Station 2  (Townsend St at 4th St),50,2nd St at Townsend St,1894,2,1977,Male,27,5/07/2018
+61,3 minutes,30,San Francisco Caltrain (Townsend St at 4th St),50,2nd St at Townsend St,2960,1,1977,Female,27,6/07/2018
+62,2 minutes,67,San Francisco Caltrain Station 2  (Townsend St at 4th St),80,Townsend St at 5th St,2193,2,1996,Female,27,7/07/2018
+63,1 minutes,67,San Francisco Caltrain Station 2  (Townsend St at 4th St),64,5th St at Brannan St,2436,2,1990,Female,27,8/07/2018
+64,7 minutes,5,Powell St BART Station (Market St at 5th St),41,Golden Gate Ave at Polk St,3617,2,1989,Male,27,9/07/2018
+65,8 minutes,3,Powell St BART Station (Market St at 4th St),58,Market St at 10th St,626,1,1994,Male,27,10/07/2018
+66,15 minutes,5,Powell St BART Station (Market St at 5th St),4,Cyril Magnin St at Ellis St,4719,1,1973,Male,27,11/07/2018
+68,9 minutes,21,Montgomery St BART Station (Market St at 2nd St),81,Berry St at 4th St,2125,3,1991,Male,27,12/07/2018
+69,11 minutes,21,Montgomery St BART Station (Market St at 2nd St),78,Folsom St at 9th St,5374,2,1999,Female,27,13/07/2018
+70,16 minutes,22,Howard St at Beale St,350,8th St at Brannan St,1310,2,1987,Male,27,14/07/2018
+55,13 minutes,21,Montgomery St BART Station (Market St at 2nd St),78,Folsom St at 9th St,2531,2,1999,Female,27,15/07/2018
+72,14 minutes,21,Montgomery St BART Station (Market St at 2nd St),78,Folsom St at 9th St,1502,2,1998,Female,27,16/07/2018
+73,12 minutes,21,Montgomery St BART Station (Market St at 2nd St),78,Folsom St at 9th St,1202,1,1999,Male,27,17/07/2018
+74,11 minutes,21,Montgomery St BART Station (Market St at 2nd St),78,Folsom St at 9th St,377,2,1999,Male,27,18/07/2018
+75,5 minutes,21,Montgomery St BART Station (Market St at 2nd St),27,Beale St at Harrison St,3711,3,1985,Male,27,19/07/2018
+76,11 minutes,21,Montgomery St BART Station (Market St at 2nd St),61,Howard St at 8th St,2918,2,1999,Female,27,20/07/2018
+77,10 minutes,81,Berry St at 4th St,6,The Embarcadero at Sansome St,5233,1,1987,Male,27,21/07/2018
+78,10 minutes,21,Montgomery St BART Station (Market St at 2nd St),61,Howard St at 8th St,507,2,1998,Male,27,22/07/2018
+79,10 minutes,21,Montgomery St BART Station (Market St at 2nd St),61,Howard St at 8th St,608,1,1999,Male,27,23/07/2018
+80,8 minutes,21,Montgomery St BART Station (Market St at 2nd St),61,Howard St at 8th St,157,1,1999,Male,27,24/07/2018
+81,4 minutes,15,San Francisco Ferry Building (Harry Bridges Plaza),28,The Embarcadero at Bryant St,4602,2,1991,Female,27,25/07/2018
+88,5 minutes,21,Montgomery St BART Station (Market St at 2nd St),9,Broadway at Battery St,181,2,1967,Male,27,26/07/2018
+55,10 minutes,21,Montgomery St BART Station (Market St at 2nd St),58,Market St at 10th St,3715,2,1999,Male,27,27/07/2018
+90,10 minutes,16,Steuart St at Market St,93,4th St at Mission Bay Blvd S,5392,2,1986,Male,27,28/07/2018
+92,5 minutes,30,San Francisco Caltrain (Townsend St at 4th St),28,The Embarcadero at Bryant St,1012,1,1991,Female,27,29/07/2018
+93,19 minutes,5,Powell St BART Station (Market St at 5th St),70,Central Ave at Fell St,465,2,1989,Male,27,30/07/2018
+94,19 minutes,3,Powell St BART Station (Market St at 4th St),55,Webster St at Grove St,3009,2,1992,Female,27,31/07/2018
+95,20 minutes,67,San Francisco Caltrain Station 2  (Townsend St at 4th St),377,Fell St at Stanyan St,5105,1,1992,Male,27,1/08/2018
+98,38 minutes,21,Montgomery St BART Station (Market St at 2nd St),58,Market St at 10th St,5271,2,1988,Male,27,2/08/2018
+99,9 minutes,16,Steuart St at Market St,93,4th St at Mission Bay Blvd S,5125,1,1988,Male,27,3/08/2018
+71,11 minutes,3,Powell St BART Station (Market St at 5th St),44,The Embarcadero at Sansome St,4805,2,1987,Male,27,4/08/2018
+71,11 minutes,3,Powell St BART Station (Market St at 5th St),44,The Embarcadero at Sansome St,4805,2,1987,Male,27,4/08/2018
+89,9 minutes,15,San Francisco Ferry Building (Harry Bridges Plaza),81,Berry St at 4th St,5552,1,1990,Male,26,6/08/2018
+89,9 minutes,15,San Francisco Ferry Building (Harry Bridges Plaza),81,Berry St at 4th St,5552,1,1990,Male,26,6/08/2018
